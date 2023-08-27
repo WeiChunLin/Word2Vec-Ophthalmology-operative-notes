@@ -15,4 +15,4 @@ from gensim.models import Word2Vec
 model = Word2Vec.load("word2vec_D50.model")
 ```
 
-```{python} print("Hello Python!") ```
+
