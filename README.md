@@ -8,11 +8,9 @@ A pre-trained Word2Vec model created using Gensim is based on ophthalmology oper
 
 To load the custom-trained Word2Vec model, you can use the following Python code snippet:
 
-\`\`\`python
+```python
 from gensim.models import Word2Vec
 
-## Load the model
+# Load the model
 model = Word2Vec.load("word2vec_D50.model")
-\`\`\`
-
-
+```
